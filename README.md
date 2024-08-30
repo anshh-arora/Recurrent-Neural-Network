@@ -41,6 +41,15 @@ To clone and run this project, use the following command:
    git clone https://github.com/anshh-arora/Recurrent-Neural-Network.git
    cd RNN-from-Scratch
 
+
+## Contact Information
+For any questions or feedback, feel free to reach out:
+
+- **Email**: [ansharora.cs@gmail.com](mailto:ansharora.cs@gmail.com)
+- **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/ansh-arora-data-scientist/)
+- **Kaggle**: [Follow me on Kaggle](https://www.kaggle.com/ansh1529)
+
+
 ## Contact Information
 For any questions or feedback, feel free to reach out:
 
